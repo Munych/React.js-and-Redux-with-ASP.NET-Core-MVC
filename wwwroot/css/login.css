@@ -1,0 +1,10 @@
+.login-window {
+    border: 1px solid gray;
+    margin: auto;
+    width: 400px;
+}
+
+.form-group {
+    margin: 10px;
+    text-align: left;
+}
